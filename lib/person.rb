@@ -6,3 +6,4 @@ class person
     puts "The Person is walking"
   end
 end
+end
